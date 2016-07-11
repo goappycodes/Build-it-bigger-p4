@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "163086332803",
+    "firebase_url": "https://jokes-app-86758.firebaseio.com",
+    "project_id": "jokes-app-86758",
+    "storage_bucket": "jokes-app-86758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163086332803:android:9f736eb9fc1e1319",
+        "android_client_info": {
+          "package_name": "com.udacity.gradle.builditbigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163086332803-fi8a060t5fe80b359ldbhcl8k18ngdbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqVOSQbqSYhnIkVZGqK2ik1ehKClXyXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
