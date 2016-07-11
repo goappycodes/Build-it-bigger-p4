@@ -1,7 +1,7 @@
 #Important for code to work 
 
-Place Admob id 
-Strings.xml = banner_ad_unit_id
+Place Admob id in : 
+Strings.xml = banner_ad_unit_id and 
 MainActivity in free folder -  mInterstitialAd.setAdUnitId(""); //add your admob id here
 
 
