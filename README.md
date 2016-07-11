@@ -1,3 +1,10 @@
+#Important for code to work 
+
+Place Admob id 
+Strings.xml = banner_ad_unit_id
+MainActivity in free folder -  mInterstitialAd.setAdUnitId(""); //add your admob id here
+
+
 # Gradle for Android and Java Final Project
 
 In this project, you will create an app with multiple flavors that uses
